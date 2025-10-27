@@ -59,6 +59,11 @@
       height="30"
     />
     <img
+      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="Node.js"
+      height="30"
+    />
+    <img
       src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
       alt="Next.js"
       height="30"
@@ -101,11 +106,6 @@
     <img
       src="https://img.shields.io/badge/Firebase-de2c00?style=for-the-badge&logo=firebase&logoColor=black"
       alt="Firebase"
-      height="30"
-    />
-    <img
-      src="https://img.shields.io/badge/Cosmic_CMS-2900FF?style=for-the-badge&logo=cosmic&logoColor=white"
-      alt="Cosmic CMS"
       height="30"
     />
   </div>
@@ -261,7 +261,7 @@
   <h2 style="border-bottom: 2px solid #eaecef; padding-bottom: 5px">
     📫 Entre em Contato
   </h2>
-  <p>Estou sempre aberto a novas oportunidades, colaborações e um bom papo!</p>
+  <p>Estou sempre aberto a novas oportunidades!</p>
   <p>
     <a
       href="https://www.linkedin.com/in/rajiv-tavares-a74837236/"
