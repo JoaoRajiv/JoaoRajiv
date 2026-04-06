@@ -300,7 +300,7 @@
     <a href="https://github.com/JoaoRajiv">
       <img 
         height="180em" 
-        src="https://github-readme-stats.vercel.app/api?username=JoaoRajiv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+        src="https://github-readme-stats.vercel.app/api?username=JoaoRajiv&show_icons=true&include_all_commits=true&count_private=true" 
         alt="Estatísticas do GitHub de JoaoRajiv" 
       />
     </a>
@@ -308,7 +308,7 @@
 <a href="https://github.com/JoaoRajiv">
       <img 
         height="180em" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRajiv&layout=compact&langs_count=7&theme=dracula" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRajiv&layout=compact&langs_count=7" 
         alt="Linguagens mais usadas" 
       />
     </a>
@@ -317,8 +317,8 @@
   <!-- Adicionado: Streak Stats (Dá um visual bem legal e costuma cair menos) -->
   <a href="https://github.com/JoaoRajiv">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoRajiv&theme=dracula" 
-      alt="GitHub Streak" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoRajiv" 
+      alt="GitHub Streak"
     />
   </a>
 </div>
