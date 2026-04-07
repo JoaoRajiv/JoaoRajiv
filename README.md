@@ -317,7 +317,7 @@
   <!-- Adicionado: Streak Stats (Dá um visual bem legal e costuma cair menos) -->
   <a href="https://github.com/JoaoRajiv">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoRajiv&column=8&theme=darkhub&no-frame=true&no-bg=true" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoRajiv&column=8&theme=rising-sun" 
       alt="GitHub Streak"
     />
   </a>
