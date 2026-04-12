@@ -21,10 +21,10 @@
   </p>
 
   <h2 style="border-bottom: 2px solid #eaecef; padding-bottom: 5px">
-    🌱 O que estou aprendendo
+    🌱 O que estou aprendendo:
   </h2>
   <p>
-    Atualmente, estou focado em aprimorar minhas habilidades em Next.js, Docker, CI/CD, e teste automatizados.
+    Atualmente, estou focado em aprimorar minhas habilidades em Next.js, Docker, CI/CD, e testes automatizados.
   </p>
 
   <h2 style="border-bottom: 2px solid #eaecef; padding-bottom: 5px">
@@ -294,26 +294,7 @@
 </div>
 <div align="center">
   <h2>📊 Minhas Estatísticas e Atividade</h2>
-
-  <div style="display: inline_block">
-    <!-- Card de Estatísticas Gerais -->
-    <a href="https://github.com/JoaoRajiv">
-      <img 
-        height="180em" 
-        src="https://github-readme-stats.vercel.app/api?username=JoaoRajiv&show_icons=true&include_all_commits=true&count_private=true" 
-        alt="Estatísticas do GitHub de JoaoRajiv" 
-      />
-    </a>
-
-<a href="https://github.com/JoaoRajiv">
-      <img 
-        height="180em" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRajiv&layout=compact&langs_count=7" 
-        alt="Linguagens mais usadas" 
-      />
-    </a>
-  </div>
-  
+ 
   <!-- Adicionado: Streak Stats (Dá um visual bem legal e costuma cair menos) -->
   <a href="https://github.com/JoaoRajiv">
     <img 
