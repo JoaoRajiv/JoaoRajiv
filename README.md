@@ -1,7 +1,6 @@
 <div
   style="
-    font-family: 'Segoe UI', Helvetica, Arial,
-      sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+    font-family: 'Open Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
     line-height: 1.6;
     max-width: 700px;
     margin: auto;
