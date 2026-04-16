@@ -1,6 +1,6 @@
 <div
   style="
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
+    font-family: 'Segoe UI', Helvetica, Arial,
       sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
     line-height: 1.6;
     max-width: 700px;
@@ -110,7 +110,7 @@
     />
   </div>
 
-  <h2 style="border-bottom: 2px solid #eaecef; padding-bottom: 5px">
+  <h2 style="border-bottom: 2px solid #eaecef; padding-bottom: 15px">
     🏆 Projetos em Destaque
   </h2>
   <p>
@@ -118,16 +118,21 @@
   </p>
 
   <div style="margin-bottom: 20px">
-    <h3 style="margin-bottom: 5px">
-      1. Dev Controle - Gerenciamento de chamados
-    </h3>
+    <h2 style="margin-bottom: 5px" align="center">
+      Aparatus
+    </h2>
     <p style="margin-top: 0; font-size: 0.9em; color: #586069">
-      É um sistema centralizado para registrar, classificar, encaminhar e rastrear todas as solicitações (tickets) dos clientes. Seu objetivo é acelerar a resolução de problemas, melhorar a comunicação e fornecer dados (como tempo de resposta) para aumentar a satisfação e a eficiência do suporte.
+      Aparatus é uma plataforma SaaS full-stack para agendamento e gestão de barbearias. O sistema permite que os clientes façam login seguro, naveguem por serviços, realizem pagamentos antecipados, gerenciem seus agendamentos e até mesmo marquem horários conversando com um assistente de Inteligência Artificial.
     </p>
     <p style="margin-top: 5px">
       <img
       src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
       alt="TypeScript"
+      height="30"
+    />
+      <img
+      src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"
+      alt="React"
       height="30"
     />
       <img
@@ -146,29 +151,29 @@
       height="30"
     />
       <img
-      src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"
-      alt="Prisma"
-      height="30"
-    />
-      <img
       src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"
       alt="Zod"
       height="30"
     />
       <img
-      src="https://img.shields.io/badge/NextAuth.js-000?style=for-the-badge&logo=next-auth&logoColor=white"
-      alt="Next-Auth"
+      src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="PostgreSQL"
       height="30"
     />
       <img
-      src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="MongoDB"
+      src="https://img.shields.io/badge/betterauth-FFFFFF?style=for-the-badge&logo=betterauth&logoColor=black"
+      alt="betterauth"
+      height="30"
+    />
+      <img
+      src="https://img.shields.io/badge/stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"
+      alt="Stripe"
       height="30"
     />
     </p>
     <p>
       <a
-        href="https://dev-controle-blue.vercel.app/"
+        href="https://aparatus-flame.vercel.app"
         style="
           text-decoration: none;
           background-color: #2ea44f;
@@ -181,7 +186,7 @@
       >
       &nbsp;&nbsp;
       <a
-        href="https://github.com/JoaoRajiv/dev_controle"
+        href="https://github.com/JoaoRajiv/aparatus"
         style="
           text-decoration: none;
           background-color: #24292e;
@@ -196,9 +201,9 @@
   </div>
 
   <div style="margin-bottom: 20px">
-    <h3 style="margin-bottom: 5px">
-      2. Oficina Mecânica - Landing Page
-    </h3>
+    <h2 align="center" style="margin-bottom: 5px">
+      Oficina Mecânica - Landing Page
+    </h2>
     <p style="margin-top: 0; font-size: 0.9em; color: #586069">
       Este projeto é uma landing page desenvolvida em Next.js para uma oficina mecânica, com integração ao Cosmic CMS para gerenciamento de conteúdo dinâmico.
     </p>
@@ -258,13 +263,13 @@
     </p>
   </div>
 
-  <h2 style="border-bottom: 2px solid #eaecef; padding-bottom: 5px">
+  <h2 style="padding-bottom: 5px">
     📫 Entre em Contato
   </h2>
   <p>Estou sempre aberto a novas oportunidades!</p>
   <p>
     <a
-      href="https://www.linkedin.com/in/rajiv-tavares-a74837236/"
+      href="https://www.linkedin.com/in/rajiv-tavares/"
       style="text-decoration: none"
     >
       <img
@@ -273,7 +278,7 @@
       />
     </a>
     <a
-      href="mailto:[seu-email@dominio.com]"
+      href="mailto:olivairarajiv@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20João,"
       style="text-decoration: none"
     >
       <img
@@ -286,7 +291,7 @@
       style="text-decoration: none"
     >
       <img
-        src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"
+        src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"
         alt="Portfólio"
       />
     </a>
