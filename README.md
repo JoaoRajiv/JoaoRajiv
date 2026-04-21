@@ -20,13 +20,6 @@
   </p>
 
   <h2 style="border-bottom: 2px solid #eaecef; padding-bottom: 5px">
-    🌱 O que estou aprendendo:
-  </h2>
-  <p>
-    Atualmente, estou focado em aprimorar minhas habilidades em Next.js, Docker, CI/CD, e testes automatizados.
-  </p>
-
-  <h2 style="border-bottom: 2px solid #eaecef; padding-bottom: 5px">
     🚀 Minhas Principais Tecnologias
   </h2>
   <div
@@ -109,13 +102,9 @@
     />
   </div>
 
-  <h2 style="border-bottom: 2px solid #eaecef; padding-bottom: 15px">
+  <h2 style="border-bottom: 2px solid #eaecef; padding-bottom: 15px" align="center">
     🏆 Projetos em Destaque
   </h2>
-  <p>
-    Aqui estão alguns projetos que construí e que demonstram minhas habilidades.
-  </p>
-
   <div style="margin-bottom: 20px">
     <h2 style="margin-bottom: 5px" align="center">
       Aparatus
