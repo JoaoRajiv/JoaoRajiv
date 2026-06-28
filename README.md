@@ -33,7 +33,7 @@
 ###
 
 <p align="left">
-  Sou um <strong>entusiasta da programação</strong> e desenvolvedor <strong>Fullstack</strong> apaixonado por criar soluções web modernas, eficientes e escaláveis.<br><br>
+  Sou desenvolvedor <strong>Fullstack</strong> apaixonado por criar soluções web modernas, eficientes e escaláveis.<br><br>
   - 🔭 Meu foco principal é no ecossistema <strong>JavaScript</strong>.<br>
   - 📚 Atualmente, meus estudos e projetos são focados no uso avançado de <strong>TypeScript</strong> com <strong>React</strong> e <strong>Next.js</strong>.<br>
   - ⚡ No meu tempo livre, busco sempre aprender e aplicar as melhores práticas de desenvolvimento para construir aplicações robustas.
